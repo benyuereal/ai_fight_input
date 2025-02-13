@@ -1,0 +1,7 @@
+pandas==2.2.3
+python-magic==0.4.27; platform_system != "Windows"
+python-magic-bin==0.4.14; platform_system == "Windows"
+Flask~=2.0.1
+python-magic~=0.4.27
+selenium-wire~=5.1.0
+selenium~=4.27.1
